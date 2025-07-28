@@ -1,4 +1,4 @@
-from pynput.mouse import Controller
+from pynput.mouse import Button, Controller
 import time
 
 mouse = Controller()
